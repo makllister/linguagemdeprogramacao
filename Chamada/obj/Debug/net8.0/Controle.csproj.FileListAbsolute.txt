@@ -1,0 +1,60 @@
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.AssemblyInfoInputs.cache
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.AssemblyInfo.cs
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.RazorAssemblyInfo.cache
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.RazorAssemblyInfo.cs
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\Controle.staticwebassets.runtime.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\Controle.exe
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\Controle.deps.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\Controle.runtimeconfig.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\Controle.dll
+C:\Users\Aluno\Source\Repos\Controle\Controle\bin\Debug\net8.0\Controle.pdb
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.Controle.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.build.Controle.props
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Controle.props
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Controle.props
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\scopedcss\bundle\Controle.styles.css
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\scopedcss\projectbundle\Controle.bundle.scp.css
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.dll
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\refint\Controle.dll
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.pdb
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\Controle.genruntimeconfig.cache
+C:\Users\Aluno\Source\Repos\Controle\Controle\obj\Debug\net8.0\ref\Controle.dll
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\appsettings.Development.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\appsettings.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\Controle.staticwebassets.runtime.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\Controle.exe
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\Controle.deps.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\Controle.runtimeconfig.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\Controle.dll
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\bin\Debug\net8.0\Controle.pdb
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.AssemblyInfoInputs.cache
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.AssemblyInfo.cs
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.csproj.CoreCompileInputs.cache
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.RazorAssemblyInfo.cache
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.RazorAssemblyInfo.cs
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\staticwebassets.build.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\staticwebassets.development.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.Controle.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.build.Controle.props
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Controle.props
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Controle.props
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\scopedcss\bundle\Controle.styles.css
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\scopedcss\projectbundle\Controle.bundle.scp.css
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.dll
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\refint\Controle.dll
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.pdb
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\Controle.genruntimeconfig.cache
+D:\Cursos\Programador de Sistemas- Senai\Linguagem de programação\atividade 19-07\Controle\Controle\obj\Debug\net8.0\ref\Controle.dll
